@@ -8,5 +8,5 @@ About recognition license plate follow 3 step:
 ### Clone Repo
 > git clone https://github.com/nqbao11/LicensePlateRecognition.git
 ### Install requires library
-. > cd LicensePlateRecognition
-. > pip install -r setup.txt
+> cd LicensePlateRecognition
+> pip install -r setup.txt
